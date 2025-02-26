@@ -1,6 +1,8 @@
 # **The Fastai Book**——你的中文快速AI上手指南🧭
 
-<a href="https://creativecommons.org/licenses/by/4.0/">[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg "title")](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/)<img src="https://img.shields.io/github/stars/immc-lab/fastbook-zh.svg"><img src="https://img.shields.io/github/watchers/immc-lab/fastbook-zh.svg"></a>
+<a href="https://creativecommons.org/licenses/by/4.0/">[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg "title")](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/)<img src="https://img.shields.io/github/stars/muscaestar/fastbook-zh.svg"><img src="https://img.shields.io/github/watchers/muscaestar/fastbook-zh.svg"></a>
+
+### 这个fork仓库基于原仓库做了一些自己的笔记和改动，主要目的是帮助自己更好得理解学习fastbook的内容
 
 ### 注意：
 
@@ -32,45 +34,45 @@ notebook 里的代码以及 python 的 `.py` 文件受到 GPL v3 开源协议的
 
 您可以通过单击以下链接之一在 Colab 中打开本书的任何章节：
 
-[第一章：介绍](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/01_intro.ipynb) 
+[第一章：介绍](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/01_intro.ipynb) 
 
-[第二章：生产](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/02_production.ipynb) 
+[第二章：生产](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/02_production.ipynb) 
 
-[第三章：道德问题](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/03_ethics.ipynb) 
+[第三章：道德问题](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/03_ethics.ipynb) 
 
-[第四章：MNIST基础](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/04_mnist_basics.ipynb) 
+[第四章：MNIST基础](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/04_mnist_basics.ipynb) 
 
-[第五章：宠物品种](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/05_pet_breeds.ipynb) 
+[第五章：宠物品种](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/05_pet_breeds.ipynb) 
 
-[第六章：多类别分类](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/06_multicat.ipynb) 
+[第六章：多类别分类](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/06_multicat.ipynb) 
 
-[第七章：模型大小和TTA](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/07_sizing_and_tta.ipynb) 
+[第七章：模型大小和TTA](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/07_sizing_and_tta.ipynb) 
 
-[第八章：协同过滤](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/08_collab.ipynb) 
+[第八章：协同过滤](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/08_collab.ipynb) 
 
-[第九章：表格数据](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/09_tabular_ipynb.ipynb) 
+[第九章：表格数据](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/09_tabular_ipynb.ipynb) 
 
-[第十章：NLP](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/10_nlp.ipynb) 
+[第十章：NLP](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/10_nlp.ipynb) 
 
-[第十一章：中级API](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/11_midlevel_data.ipynb) 
+[第十一章：中级API](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/11_midlevel_data.ipynb) 
 
-[第十二章：深入探讨自然语言处理](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/12_nlp_dive.ipynb) 
+[第十二章：深入探讨自然语言处理](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/12_nlp_dive.ipynb) 
 
-[第十三章：卷积](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/13_convolutions.ipynb) 
+[第十三章：卷积](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/13_convolutions.ipynb) 
 
-[第十四章：Resnet](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/14_resnet.ipynb) 
+[第十四章：Resnet](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/14_resnet.ipynb) 
 
-[第十五章：架构细节](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/15_arch_details.ipynb) 
+[第十五章：架构细节](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/15_arch_details.ipynb) 
 
-[第十六章：优化器和回调函数](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/16_accel_sgd.ipynb) 
+[第十六章：优化器和回调函数](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/16_accel_sgd.ipynb) 
  
-[第十七章：基础知识](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/17_foundations.ipynb)
+[第十七章：基础知识](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/17_foundations.ipynb)
 
-[第十八章：GradCAM](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/18_CAM.ipynb) 
+[第十八章：GradCAM](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/18_CAM.ipynb) 
 
-[第十九章：一个AI学者](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/19_learner.ipynb) 
+[第十九章：一个AI学者](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/19_learner.ipynb) 
 
-[第二十章：结论](https://colab.research.google.com/github/immc-lab/fastbook-zh/blob/main/20_conclusion.ipynb)
+[第二十章：结论](https://colab.research.google.com/github/muscaestar/fastbook-zh/blob/main/20_conclusion.ipynb)
 
 
 
